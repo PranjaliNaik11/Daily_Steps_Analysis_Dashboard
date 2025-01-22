@@ -7,7 +7,7 @@ Welcome to the Daily Steps Visualization Dashboard project! This repository feat
 - **Sunburst Chart:** Visualize daily step counts in a circular, hierarchical layout. Each segment represents a day, with color intensity indicating the number of steps walked.
 - **Average Steps KPI:** Display the average number of steps walked per day throughout the year as a Key Performance Indicator (KPI).
 
-## Getting Started
+## Getting Started:
 
 To get started with the Daily Steps Visualization Dashboard, follow these steps:
 
